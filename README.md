@@ -1,7 +1,4 @@
-Ace3 compatibility for the Arma 3 weapons' mod "JCA - M16A" by Grave:
-
-https://steamcommunity.com/sharedfiles/filedetails/?id=3343727154
-
+Ace3 compatibility for the Arma 3 weapons' mod "JCA - M16A" by Grave: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3343727154)
 - Can be played with or without Ace3.
 - Default ballistic muzzle velocities according to Advanced Ballistics ICAO muzzle velocities (15°C, 1013.25 hPa, 0%).
 - Default ballistic airFriction based on Advanced Ballistics ICAO ballistic coefficients and drag models with the [ACE3 tool by Ruthberg](https://github.com/acemod/ACE3/blob/master/tools/generate_airfriction_config.py).
@@ -16,4 +13,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3343727154
 - Add 5.56x45mm ammunition Dual Purpose underwater subsonic (zeroing 100m or less recommanded).
 - Add "ACE_railHeightAboveBore" from ACE3 "checkScopes.sqf".
 
-Steam Workshop's download link: https://steamcommunity.com/sharedfiles/filedetails/?id=3347273393
+Download link: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3347273393)
+
+License: [Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
