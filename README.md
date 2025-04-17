@@ -11,7 +11,7 @@ ACE3 compatibility for the Arma 3 weapons' mod "JCA - M16A" by Grave: [Steam Wor
 - Add 5.56x45mm Mk318 from ACE3 Ghitub.
 - Add 5.56x45mm M995 AP from ACE3 Ghitub.
 - Add 5.56x45mm ammunition Dual Purpose underwater subsonic (zeroing 100m or less recommanded).
-- Add "ACE_railHeightAboveBore" from ACE3 "checkScopes.sqf".
+- Add "ACE_railHeightAboveBore" value from ACE3 "checkScopes.sqf".
 
 Download link: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3347273393)
 
